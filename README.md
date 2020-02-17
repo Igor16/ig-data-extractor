@@ -1,5 +1,5 @@
 # Instagram Data Extractor
-This script extract data using Instagram Web API. I created it to use for the pages which I follow. If you have some idea, we could add functions!
+This script extracts data using Instagram Web API. I created it to use for the pages which I follow. If you have some idea, we could add functions!
 
 ## Requirements
 - Python v3.x or greater
