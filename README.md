@@ -1,3 +1,6 @@
+## ⚠️Deprecated
+Instagram Endpoint stopped working. This script is not working anymore.
+
 # Instagram Data Extractor
 This script extracts data using Instagram Endpoint. I created it to use for the pages which I follow. If you have some idea, we could add functions!
 
